@@ -2,4 +2,4 @@
 # This is a website when the user write a color and click the button the background color is changing
 
 # Photos
-![mainPage](https://i.gyazo.com/e62fdbfa52e0468e7301465a48dfbda1.png)
+![mainPage](https://i.gyazo.com/0c772772298269b271b822bbe4adf0e8.png)
